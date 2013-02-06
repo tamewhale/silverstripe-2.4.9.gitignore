@@ -1,0 +1,41 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Silverstripe 2.4.9
+assets/
+cms/
+sapphire/
+silverstripe-blog/
+silverstripe-cache/
+ChangeLog
+COPYING
+INSTALL
+web.config
+
+# Plesk dir on server
+plesk-stat/
+
+# todo file on root
+todo-bndigital.txt
+
+# project specific
+css/
+custommenus/
+dataobject_manager/
+googlesitemaps/
+img/
+keywords/
+kickassets/
+picture_library/
+test/
+tmp/
+uploadify/
+.mergesources.yml
+crossdomain.xml
