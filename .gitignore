@@ -18,7 +18,11 @@ $RECYCLE.BIN/
 /themes/tutorial/
 ChangeLog
 COPYING
+/index.php
 INSTALL
+Makefile
+phpunit.xml.dist
+UPGRADING
 web.config
 
 # Plesk dir on server
